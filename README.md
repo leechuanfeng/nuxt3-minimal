@@ -1,5 +1,7 @@
 # Nuxt 3 Minimal Starter with Pages and Layouts
 
+This is a starter project setup with navigation using pages and layouts 
+
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
 ## Setup
