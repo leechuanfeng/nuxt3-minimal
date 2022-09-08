@@ -1,9 +1,3 @@
-node_modules
-*.log
-.nuxt
-nuxt.d.ts
-.output
-.env# Logs
 logs
 *.log
 npm-debug.log*
@@ -90,6 +84,11 @@ out
 # Nuxt.js build / generate output
 .nuxt
 dist
+nuxt.d.ts
+.output
+*.log*
+.nitro
+.cache
 
 # Gatsby files
 .cache/
