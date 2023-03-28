@@ -89,6 +89,7 @@ nuxt.d.ts
 *.log*
 .nitro
 .cache
+.DS_Store
 
 # Gatsby files
 .cache/
